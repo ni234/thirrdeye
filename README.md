@@ -1,0 +1,2 @@
+# thirrdeye
+First Django Build 
